@@ -38,3 +38,6 @@ The paper argues that RN's electoral success is best understood as the interacti
 - Economic dissatisfaction alone did not sufficiently explain populist radical right voting.
 - Political distrust played a major role in structuring anti-elite sentiment.
 - RN’s success reflected broader transformations in democratic representation and political identity formation.
+## Figures
+
+Supporting figures and regression outputs used in the analysis are available in the `figures` folder.
