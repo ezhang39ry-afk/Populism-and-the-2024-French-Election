@@ -38,3 +38,19 @@ The paper argues that RN's electoral success is best understood as the interacti
 - Economic dissatisfaction alone did not sufficiently explain populist radical right voting.
 - Political distrust played a major role in structuring anti-elite sentiment.
 - RN’s success reflected broader transformations in democratic representation and political identity formation.
+
+## Immigration Threat and Right-Wing Alignment
+
+![Immigration Threat Figure](figures/figure 1 perceived immigration threat populism.png)
+
+## Economic Dissatisfaction and Populist Voting
+
+![Economic Dissatisfaction Figure](figures/figure 2 economic dissatisfaction populism.png)
+
+## Political Distrust and Populist Voting
+
+![Political Distrust Figure](figures/figure 3 trust in politicians populist voting.png)
+
+## Logistic Regression Results
+
+![Regression Table](figures/logistic regression table predicting right wing alignment.png)
